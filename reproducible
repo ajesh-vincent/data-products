@@ -1,0 +1,99 @@
+---
+title: "my shiny ppet"
+author: "Ajesh Vincent"
+date: "07/11/2020"
+---
+
+
+## lets fadfa kkjdalf jlndj 
+#adfnakldfjkldfklafjkljaif
+#;kjadfkljfklFKadklfj
+
+### Seaklfafhaiofh jafjhauwuqorfknmlnmsdjbvdfb
+adklfdfjadjfkjf
+dkfjkldfjoief[qor[fnsvsnvksdkfdjfjguehfi]]
+
+
+- donta know what to typr know nothing a gaming isa all about reflexes 
+you cannot defeat anuyoetm njadfhahjdfhaj dfhjdhjdhf
+akdfhjhfvuskgogfghsh
+adkldiosushgsfofjoeavsgnskhgs
+yaarr spare me some slack coleege was nrmaeri n tkl  sueeu us
+*
+
+---
+
+
+### lets tes ts  hasuj h ac arcar car
+
+```{r}
+library(datasets)
+head(mtcars, 3)
+```
+---
+
+## whar is rhrbeu kasrk fnkensfjla dfn la
+#jas nafb jahfaldnf adnfklcnak nafncm, 
+#k ansklfndlnf anlN Fjasafj ,mvksjekfal al;f
+
+**KYA HAI YEH DONT KNOW with iDK HOW MANY OBSERVATIONS on HOW MANY VARIABL variables.**
+
+| Index | Field | Detail |
+------- | ----- | ------ |
+| [, 1] | TK_mpg_E | TK_Miles/(US) gallon |
+| [, 2]  | TKK_cyl | TJ ADFKD of cyoiTlinders |
+| [, 3]	| dispLAY | DISDS_PLACE_MENT (cu.in.) |
+| [, 4]	| g_h__p | Gross horsepower |
+| [, 5]	| dratLY | Rear axle ratioSE |
+| [, 6]	| wt | Weight (lb/1000) |
+| [, 7]	| qsec | 1/4 mile time |
+| [, 8]	| vs | V/S |
+| [, 9]	| am | Transmisbfjkabfjsion (0 = automatic, 1 = manual) |
+| [,10]	| gear | fhsNumbaher of forward gears |
+| [,11]	| carb | ssNumberabkfa of sfhcarbsfhuretors |
+
+---
+
+## OKKAY KETS DGKNSDOGU JFJ 
+#J NADFN KADJF PAJ
+# AKLIEAIRJ NKADJOFK PAFK NJETFADOP KAD
+earjekofdkdfdf
+dgjsiogjdfjapdf
+dlgnodigjeporfkakfa
+dnodfap
+```r
+  IKKAKU <- reactive({
+    paste("mpg ~", "as.integer(", input$variable, ")")  })
+  
+  f_daku <- reactive({
+    lm(as.formula(IKKAKU()), data=mpgData)  })
+  ...
+  hy$f_daku <- renderPrint({
+    summary(f_daku()) })
+  
+  hy$mpgPlot <- renderPlot({
+    with(mpgData, {
+      plot(as.formula(IKKAKU()))
+      abline(f_daku(), col=2)
+    })  })
+```
+#ignore
+lets end this thing tired now domnt know what to do this isa alot
+kdgjigjkd 
+adfjjipjfjfjfiejajfodkadfkdfjapifjeoaflak
+adkjigrsjjjknrhwjsdmk[psskgsg
+dkgisrgfjksksgaijoegp[dpprs
+adkfjidjfdofkfdpodjd
+tired
+hope
+]]twitter rocks
+we should win this TWITTER WAR
+Never give ip afjado 
+dfnoaj ij kdg di j
+idk what else to sy
+ ai am literally crying
+ dont look here 
+ fekdgjsohvsigjsigjsd 
+ kgdpsgpsgpodod o
+ dsgkjwrsgj ijskmvksjgi
+ dlisjdgijsgidjdjidsjisjgjshghsdh byeybye
